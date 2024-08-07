@@ -34,7 +34,6 @@ The project follows a typical Spring MVC structure:
 Before you begin, ensure you have the following installed:
 
 - Java JDK 1.8
-- Apache Maven
 - Apache Tomcat
 - MySQL database
 
